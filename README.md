@@ -19,4 +19,5 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
+---
 [![GitHub](https://img.shields.io/badge/github-Moomien-181717?style=flat&logo=github)](https://github.com/Moomien)
