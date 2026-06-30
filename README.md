@@ -1,6 +1,4 @@
-Moomien/README.md
-
-darova, my name is Ivan, about me:
+**darova, my name is Ivan, about me:**
 ```
 - 7 y.o.
 - Black Gay Transgender
