@@ -19,12 +19,4 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
----
-
-### Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moomien&layout=compact&theme=default&hide_border=true&langs_count=6)](https://github.com/Moomien)
-
----
-
 [![GitHub](https://img.shields.io/badge/github-Moomien-181717?style=flat&logo=github)](https://github.com/Moomien)
