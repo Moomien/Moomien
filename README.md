@@ -1,10 +1,11 @@
-**darova, my name is Ivan, about me:**
-```
-- 7 y.o.
-- Black Gay Transgender
-- Senior YoptaScript \ Piet Developer
-```
----
+# Hi, I'm Ivan 👋
+
+Backend Developer focused on Go.
+
+- Commercial Go developer
+- Interested in high-load systems, distributed systems and backend architecture
+- Building REST/gRPC services with PostgreSQL, Redis and Docker
+- Currently learning ClickHouse, Kafka and advanced distributed systems
 
 ### Stack
 
