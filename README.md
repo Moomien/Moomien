@@ -1,6 +1,6 @@
 # Hi, I'm Ivan 👋 
 
-21-year-old Backend Developer focused on Go.
+20-year-old Backend Developer focused on Go.
 
 - Building backend services and developer tools with Go
 - Interested in distributed systems, high-load services and backend architecture
